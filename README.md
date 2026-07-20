@@ -32,8 +32,8 @@ Sistem mengklasifikasikan citra MRI T2-*Weighted* ke dalam **4 kategori**:
 
 | Model | F1-macro | Accuracy |
 |-------|----------|----------|
-| Baseline (frozen backbone) | — | — |
-| Fine-Tuned (20 lapisan terakhir) | ≥ 0.85 | — |
+| Baseline (frozen backbone) | 0.6938 | 0.7028 |
+| Fine-Tuned (20 lapisan terakhir) | **0.8595** | **0.8629** |
 
 ### Contoh Output Grad-CAM
 
